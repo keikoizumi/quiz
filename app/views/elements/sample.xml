@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<photos>
+    <photo>
+        <name>a.jpg</name>
+        <width unit="pixel">2560</width>
+        <height unit="pixel">1920</height>
+        <url>https://pulogu.net/wordpress/wp-content/uploads/2018/01/a.jpg</url>
+        <thumbnail-url>https://pulogu.net/wordpress/wp-content/uploads/2018/01/a-150x150.jpg</thumbnail-url>
+    </photo>
+    <photo>
+        <name>b.jpg</name>
+        <width unit="inch">35.556</width>
+        <height unit="inch">26.667</height>
+        <url>https://pulogu.net/wordpress/wp-content/uploads/2018/01/b.jpg</url>
+        <thumbnail-url>https://pulogu.net/wordpress/wp-content/uploads/2018/01/b-150x150.jpg</thumbnail-url>
+    </photo>
+    <photo>
+        <name>c.jpg</name>
+        <width unit="mm">903.11</width>
+        <height unit="mm">677.33</height>
+        <url>https://pulogu.net/wordpress/wp-content/uploads/2018/01/c.jpg</url>
+        <thumbnail-url>https://pulogu.net/wordpress/wp-content/uploads/2018/01/c-150x150.jpg</thumbnail-url>
+    </photo>
+</photos>

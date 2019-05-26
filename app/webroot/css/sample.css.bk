@@ -1,0 +1,67 @@
+
+header {
+  justify-content: space-between;  /* ���E�ϓ����z */
+  background:#CCFFFF;
+  display: flex;
+  height:60px;
+  align-items: center;  /* �㉺�������� */
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+button {
+    /* �����T�C�Y��1.4em�Ɏw�� */
+
+    font-size: 1.4em;
+
+    /* �����̑�����bold�Ɏw�� */
+    font-weight: bold;
+
+    /* �c������10px�A
+     * ��������30px�̗]�����w�� */
+    padding: 1px 15px;
+
+    /* �w�i�F���w�� */
+    background-color: rgb(218, 186, 186);
+
+    /* �����F���w�� */
+    color: #FFFFE0;
+
+    /* �{�[�_�[���Ȃ��� */
+    border-style: none;
+
+    /* �p�ۂ̎w�� */
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
+button:hover {
+    opacity: 0.8;
+
+}
+
+
+
+input:hover {
+    opacity: 0.8;
+
+}
+
+a.top {
+
+  font-size: 1.4em;
+  /*padding: 1px 1px;*/
+  margin: 10px; 
+
+/* �����F���w�� */
+    color: #F4A460;
+}
+
+body {
+  background:white;
+  display: inline-block !important;
+}
+

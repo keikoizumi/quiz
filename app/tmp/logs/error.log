@@ -1,0 +1,1047 @@
+2018-08-04 14:19:46 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: file is encrypted or is not a database in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-08-04 14:19:46 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 26: file is encrypted or is not a database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-08-04 14:21:45 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: file is encrypted or is not a database in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-08-04 14:21:45 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 26: file is encrypted or is not a database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-08-04 14:22:38 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: file is encrypted or is not a database in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-08-04 14:22:38 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 26: file is encrypted or is not a database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-10-08 20:28:38 Warning: Warning (2): Wrong parameter count for var_dump() in [APP\controllers\nihongos_controller.php, line 5]
+2018-10-08 20:28:46 Warning: Warning (2): Wrong parameter count for var_dump() in [APP\controllers\nihongos_controller.php, line 5]
+2018-10-08 20:28:49 Warning: Warning (2): Wrong parameter count for var_dump() in [APP\controllers\nihongos_controller.php, line 5]
+2018-12-29 22:52:58 Error: Fatal Error (256): Unable to load DataSource file dbo\dbo_Cake/Database/Driver/Sqlite.php in [CORE\cake\libs\model\connection_manager.php, line 178]
+2018-12-29 23:05:29 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-29 23:05:29 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-29 23:08:48 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-29 23:08:48 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-29 23:50:46 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-29 23:50:46 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 10:28:45 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 10:28:45 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 10:30:51 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 10:30:51 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 11:45:52 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 11:45:52 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 11:48:49 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 11:48:49 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 12:04:11 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 12:04:11 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 12:09:44 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 12:09:44 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 12:15:01 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 12:15:01 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 12:21:53 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 12:21:53 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 12:42:44 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 12:42:44 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 12:46:41 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 12:46:41 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 12:47:30 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 12:47:30 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 12:48:19 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 12:48:19 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 12:49:23 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 12:49:23 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 21:48:33 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 21:48:34 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 21:48:56 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 21:48:56 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-30 21:53:45 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-30 21:53:45 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 12:02:47 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 12:02:48 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 12:03:15 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 12:03:15 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 13:36:48 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 13:36:48 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 14:40:19 Warning: Warning (2): Division by zero in [APP\controllers\result_controller.php, line 18]
+2018-12-31 14:41:57 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 14:41:57 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2018-12-31 14:41:57 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2018-12-31 14:41:57 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 14:43:10 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 14:43:10 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2018-12-31 14:43:10 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2018-12-31 14:43:10 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 14:43:10 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 14:43:10 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2018-12-31 14:43:10 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2018-12-31 14:43:10 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 14:43:10 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 14:43:10 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2018-12-31 14:43:10 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2018-12-31 14:43:10 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 14:46:32 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 14:46:32 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2018-12-31 14:46:32 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2018-12-31 14:46:32 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 14:50:15 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 14:50:15 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2018-12-31 14:50:15 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2018-12-31 14:50:15 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 14:50:56 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 14:50:56 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2018-12-31 14:50:56 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2018-12-31 14:50:56 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 14:51:14 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\englishs_controller.php:15) in [APP\controllers\englishs_controller.php, line 19]
+2018-12-31 14:56:26 Warning: Warning (2): Division by zero in [APP\controllers\result_controller.php, line 18]
+2018-12-31 14:59:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\englishs_controller.php:15) in [APP\controllers\englishs_controller.php, line 19]
+2018-12-31 15:00:19 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\englishs_controller.php:15) in [APP\controllers\englishs_controller.php, line 19]
+2018-12-31 15:01:47 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\englishs_controller.php:15) in [CORE\cake\libs\controller\controller.php, line 615]
+2018-12-31 15:02:05 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\englishs_controller.php:15) in [CORE\cake\libs\controller\controller.php, line 615]
+2018-12-31 15:04:49 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\englishs_controller.php:18) in [CORE\cake\libs\controller\controller.php, line 615]
+2018-12-31 15:07:25 Warning: Warning (2): Division by zero in [APP\controllers\result_controller.php, line 18]
+2018-12-31 15:07:59 Warning: Warning (2): Division by zero in [APP\controllers\result_controller.php, line 18]
+2018-12-31 15:29:25 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 15:29:25 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2018-12-31 15:29:25 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2018-12-31 15:29:25 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 15:30:08 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 15:30:08 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2018-12-31 15:30:08 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2018-12-31 15:30:08 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 15:30:49 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2018-12-31 15:30:49 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2018-12-31 15:30:49 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2018-12-31 15:30:49 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2018-12-31 22:31:31 Warning: Warning (2): session_regenerate_id() [<a href='http://php.net/function.session-regenerate-id'>function.session-regenerate-id</a>]: Session object destruction failed in [CORE\cake\libs\session.php, line 599]
+2018-12-31 22:31:31 Warning: Warning (2): session_regenerate_id() [<a href='http://php.net/function.session-regenerate-id'>function.session-regenerate-id</a>]: Session object destruction failed in [CORE\cake\libs\session.php, line 599]
+2018-12-31 22:31:31 Warning: Warning (2): session_regenerate_id() [<a href='http://php.net/function.session-regenerate-id'>function.session-regenerate-id</a>]: Session object destruction failed in [CORE\cake\libs\session.php, line 599]
+2018-12-31 22:31:31 Warning: Warning (2): session_regenerate_id() [<a href='http://php.net/function.session-regenerate-id'>function.session-regenerate-id</a>]: Session object destruction failed in [CORE\cake\libs\session.php, line 599]
+2018-12-31 22:31:31 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2018-12-31 23:54:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-01 00:21:22 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-01 00:24:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-01 00:26:37 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-01 13:35:55 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-01 13:35:55 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-01-01 13:35:56 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-01-01 13:35:56 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-01 13:55:30 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-01 13:55:30 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-01-01 13:55:30 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-01-01 13:55:30 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-01 13:58:23 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: english_tests.id may not be NULL in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-01 13:58:23 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-01-01 13:58:23 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-01-01 13:58:23 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-01 14:20:02 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-01 14:20:02 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-01 14:20:49 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-01 14:20:49 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-01 14:22:39 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-01 14:22:39 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-01 14:34:43 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-01 14:34:43 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-01 14:35:02 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-01 14:35:02 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-01 14:35:16 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-01 14:35:16 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-01 15:15:45 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-01 15:15:45 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-01 15:58:58 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\admin_controller.php:46) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-01 16:44:24 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\admin_controller.php:46) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-01 16:45:02 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\admin_controller.php:48) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-01 17:06:48 Error: success
+2019-01-01 17:09:29 Error: success
+2019-01-01 17:14:00 Error: success
+2019-01-01 17:15:36 Error: success
+2019-01-02 01:02:17 Error: success
+2019-01-02 01:04:43 Error: success
+2019-01-02 01:05:42 Error: success
+2019-01-02 01:18:14 Error: success
+2019-01-02 13:10:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:13) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 13:14:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 13:17:52 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 13:18:39 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 13:20:47 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 13:31:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 13:33:41 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 18:18:37 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 18:18:56 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 18:23:08 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 18:25:59 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 18:27:57 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 18:31:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:12) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 18:32:54 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:16) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 18:34:33 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:16) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 18:34:57 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:16) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 18:35:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:16) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 18:59:14 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 18:59:14 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 18:59:38 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 18:59:38 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 19:00:29 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such table: user_infos in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 19:00:29 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 19:09:24 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 19:09:24 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 19:12:58 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:22) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 19:19:50 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:22) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 19:20:09 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:22) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 19:20:14 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:22) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 19:23:05 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:28) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 19:23:18 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:28) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 19:50:01 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:24:20 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:58) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:26:52 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:54) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:27:15 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:54) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:27:42 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:28:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:29:13 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:58) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:30:32 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:35:45 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:37:23 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:45:20 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:46:36 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:49:05 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:28) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:49:52 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:28) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:50:54 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:28) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:51:42 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:52:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:47) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:53:01 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:53:32 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:47) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:53:49 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:47) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:56:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:47) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 20:56:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:47) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:04:57 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:09:18 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:16:03 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:49) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:37:24 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:12) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:39:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:17) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:40:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:17) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:40:24 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:40:37 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:17) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:40:50 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:17) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:41:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:42:17 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:17) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:42:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:17) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:43:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:12) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:44:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:12) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:45:18 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:12) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 21:45:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:19) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 22:22:19 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 22:22:19 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 22:23:10 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 22:23:10 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 22:23:32 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 22:23:32 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 22:45:24 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 22:46:22 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 22:46:22 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 22:46:39 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: userInfo.act_no in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 22:46:39 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 22:46:39 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-02 23:12:53 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:12:53 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:15:31 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:15:31 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:16:13 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:16:13 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:16:21 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:16:21 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:16:37 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:16:37 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:22:26 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:22:26 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:24:47 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:24:47 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:25:01 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:25:01 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:25:38 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:25:38 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:27:23 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:27:23 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:29:35 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:29:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:30:56 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:30:56 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:32:22 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:32:22 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:34:10 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:34:10 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:40:03 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:40:03 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:40:17 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:40:17 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:40:58 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:40:58 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:41:59 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:41:59 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:43:22 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:43:22 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:43:36 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:43:36 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:49:50 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:49:50 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:50:22 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:50:22 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:50:50 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:50:50 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:52:02 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:52:02 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-02 23:53:00 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.q1 in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-02 23:53:00 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 00:07:09 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.question in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 00:07:09 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 00:08:07 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 00:08:07 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 00:08:21 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 00:08:21 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 00:08:36 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 00:08:36 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 00:36:41 Error: success
+2019-01-03 00:37:05 Error: success
+2019-01-03 01:02:50 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 01:02:50 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 01:03:09 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 01:03:09 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 01:03:09 Error: Failure actNo
+2019-01-03 01:06:45 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 01:06:45 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 13:26:35 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\englishs_controller.php, line 68]
+2019-01-03 14:03:54 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;DISTINCT&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 14:03:55 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 15:30:58 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: Array in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 15:30:58 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 15:34:51 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: Array in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 15:34:51 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 15:35:24 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: Array in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 15:35:24 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 15:37:43 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: Array in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 15:37:43 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 16:56:07 Warning: Warning (2): Division by zero in [APP\controllers\result_controller.php, line 168]
+2019-01-03 16:58:25 Warning: Warning (2): Division by zero in [APP\controllers\result_controller.php, line 168]
+2019-01-03 17:12:17 Error: success
+2019-01-03 17:17:48 Error: success
+2019-01-03 18:16:34 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\re_try.ctp, line 27]
+2019-01-03 18:21:41 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-03 18:22:15 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-03 18:22:28 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 18:22:29 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 18:25:37 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-03 18:25:37 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-03 18:51:03 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-03 18:51:09 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-03 18:52:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 01:20:35 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\re_try.ctp, line 27]
+2019-01-04 01:21:39 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\re_try.ctp, line 29]
+2019-01-04 01:21:42 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\re_try.ctp, line 29]
+2019-01-04 01:21:56 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\re_try.ctp, line 29]
+2019-01-04 01:22:15 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\re_try.ctp, line 29]
+2019-01-04 01:22:17 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\re_try.ctp, line 29]
+2019-01-04 01:22:18 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\re_try.ctp, line 29]
+2019-01-04 01:22:19 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\re_try.ctp, line 29]
+2019-01-04 01:22:21 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\re_try.ctp, line 29]
+2019-01-04 10:32:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 10:34:55 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 10:35:34 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 10:56:23 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 11:31:14 Warning: Warning (2): sqlite_escape_string() expects parameter 1 to be string, array given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 240]
+2019-01-04 11:31:14 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;''&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-04 11:31:14 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-04 11:31:14 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 39]
+2019-01-04 11:31:57 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: right-hand side of IN operator must be constant in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-04 11:31:57 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-04 11:31:57 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 39]
+2019-01-04 11:33:54 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: right-hand side of IN operator must be constant in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-04 11:33:54 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-04 11:33:54 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 39]
+2019-01-04 11:35:01 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: right-hand side of IN operator must be constant in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-04 11:35:01 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-04 11:36:38 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: right-hand side of IN operator must be constant in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-04 11:36:39 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-04 11:41:28 Warning: Warning (2): sqlite_escape_string() expects parameter 1 to be string, array given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 240]
+2019-01-04 11:41:28 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;''&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-04 11:41:28 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-04 11:41:28 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 39]
+2019-01-04 11:41:58 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: right-hand side of IN operator must be constant in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-04 11:41:58 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-04 11:45:19 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: right-hand side of IN operator must be constant in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-04 11:45:19 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-04 11:47:39 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: right-hand side of IN operator must be constant in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-04 11:47:39 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-04 12:03:37 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 45]
+2019-01-04 13:25:46 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 13:32:57 Error: Failure Logout
+2019-01-04 17:30:38 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: Item.name in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-04 17:30:38 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-04 18:57:49 Warning: Warning (2): shuffle() expects parameter 1 to be array, string given in [APP\views\englishs\re_try.ctp, line 29]
+2019-01-04 18:58:14 Warning: Warning (2): shuffle() expects parameter 1 to be array, string given in [APP\views\englishs\re_try.ctp, line 29]
+2019-01-04 19:46:14 Error: Withdraw
+2019-01-04 19:47:06 Error: Withdraw
+2019-01-04 19:51:03 Error: Withdraw
+2019-01-04 19:52:09 Error: Withdraw
+2019-01-04 19:54:43 Error: Withdraw
+2019-01-04 19:55:52 Error: Withdraw
+2019-01-04 20:00:39 Error: Withdraw
+2019-01-04 20:01:20 Error: Withdraw
+2019-01-04 20:01:41 Error: Failure Logout
+2019-01-04 20:01:41 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 20:03:51 Error: Failure Logout
+2019-01-04 20:03:51 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 20:05:01 Error: Failure Logout
+2019-01-04 20:05:01 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\logout_controller.php:18) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 20:05:43 Error: Withdraw
+2019-01-04 20:05:50 Error: Failure Logout
+2019-01-04 20:05:50 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 20:06:24 Error: Withdraw
+2019-01-04 20:08:24 Error: Failure Logout
+2019-01-04 20:08:24 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 20:09:45 Error: Withdraw
+2019-01-04 20:11:07 Error: Failure Logout
+2019-01-04 20:11:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 20:11:29 Error: Withdraw
+2019-01-04 20:12:46 Error: Withdraw
+2019-01-04 20:14:19 Error: Failure Logout
+2019-01-04 20:14:19 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-04 23:07:06 Error: Failure Logout
+2019-01-04 23:07:08 Error: Failure Logout
+2019-01-04 23:07:12 Error: Failure Logout
+2019-01-06 11:19:35 Error: Failure Logout
+2019-01-06 11:19:37 Error: Failure Logout
+2019-01-06 11:19:39 Error: Failure Logout
+2019-01-06 11:19:39 Error: Failure Logout
+2019-01-06 11:19:40 Error: Failure Logout
+2019-01-06 11:19:42 Error: Failure Logout
+2019-01-06 11:19:43 Error: Failure Logout
+2019-01-06 11:19:44 Error: Failure Logout
+2019-01-06 12:18:15 Error: Failure actNo
+2019-01-06 12:18:16 Error: Failure Logout
+2019-01-06 20:26:37 Error: success
+2019-01-06 20:28:16 Error: success
+2019-01-06 20:29:12 Error: success
+2019-01-06 22:22:14 Error: success
+2019-01-06 22:25:31 Error: success
+2019-01-06 22:30:26 Error: success
+2019-01-06 22:32:26 Error: success
+2019-01-06 22:34:20 Error: success
+2019-01-06 22:36:36 Error: success
+2019-01-06 22:38:36 Error: success
+2019-01-06 22:40:46 Error: success
+2019-01-06 22:42:16 Error: success
+2019-01-06 22:43:39 Error: success
+2019-01-06 22:47:21 Error: success
+2019-01-06 22:47:29 Error: Failure Logout
+2019-01-06 23:51:32 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 246]
+2019-01-20 16:34:55 Warning: Warning (2): curl_close(): supplied argument is not a valid cURL handle resource in [APP\controllers\top_controller.php, line 34]
+2019-01-20 16:35:58 Warning: Warning (2): curl_close(): supplied argument is not a valid cURL handle resource in [APP\controllers\top_controller.php, line 33]
+2019-01-20 16:38:13 Warning: Warning (2): curl_close(): supplied argument is not a valid cURL handle resource in [APP\controllers\top_controller.php, line 31]
+2019-01-20 16:42:11 Warning: Warning (2): curl_close(): supplied argument is not a valid cURL handle resource in [APP\controllers\top_controller.php, line 34]
+2019-01-22 21:42:54 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 21:42:58 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 21:43:15 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 21:43:57 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 21:44:39 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 21:44:43 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 22:57:35 Error: Failure Logout
+2019-01-22 23:11:56 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 23:14:07 Error: Failure Logout
+2019-01-22 23:14:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\englishs_controller.php:11) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 23:14:45 Error: Failure Logout
+2019-01-22 23:19:10 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:115) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 23:20:10 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:115) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 23:22:51 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:114) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 23:23:18 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:114) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 23:23:43 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\result_controller.php:114) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 23:38:47 Error: Failure Logout
+2019-01-22 23:38:47 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-22 23:38:53 Error: Failure Logout
+2019-01-22 23:38:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-01-23 00:42:40 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: Array in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-23 00:42:40 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-01-23 00:42:40 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-01-23 00:42:40 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-01-23 00:43:16 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: Array in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-01-23 00:43:16 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-01-23 00:43:16 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-01-23 00:43:17 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 12:21:36 Error: Failure
+2019-02-02 12:25:46 Error: success
+2019-02-02 12:32:31 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 12:32:31 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 12:32:31 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 12:32:31 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-02-02 12:32:31 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-02-02 12:32:31 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 12:32:32 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-02 12:54:31 Error: success
+2019-02-02 13:05:05 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 13:05:05 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 13:05:38 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 13:05:38 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 13:05:46 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 13:05:46 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 13:12:44 Error: success
+2019-02-02 13:13:29 Error: success
+2019-02-02 13:13:29 Error: success
+2019-02-02 13:14:40 Error: success
+2019-02-02 13:22:00 Error: success
+2019-02-02 13:25:21 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\index.ctp, line 29]
+2019-02-02 13:33:57 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 13:33:57 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 13:38:00 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 13:38:00 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 13:38:34 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 13:38:34 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 13:43:55 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 13:43:55 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 13:44:35 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 13:44:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 13:46:49 Error: success
+2019-02-02 13:51:08 Error: success
+2019-02-02 14:39:24 Error: success
+2019-02-02 14:39:42 Error: success
+2019-02-02 15:43:21 Error: success
+2019-02-02 16:09:27 Warning: Warning (2): shuffle() expects parameter 1 to be array, null given in [APP\views\englishs\before.ctp, line 16]
+2019-02-02 17:08:09 Error: userDel Failure
+2019-02-02 17:11:38 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 17:11:38 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 17:15:40 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 17:15:40 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 17:16:26 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 17:16:26 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 17:16:39 Error: success
+2019-02-02 17:16:47 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishTest.  in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 17:16:47 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 17:18:57 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 17:18:57 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 17:19:54 Error: success
+2019-02-02 17:25:00 Error: success
+2019-02-02 17:27:42 Error: success
+2019-02-02 17:31:16 Error: success
+2019-02-02 17:35:33 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 17:35:33 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 17:35:58 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 17:35:58 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-02-02 17:35:58 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-02-02 17:35:58 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 17:35:58 Error: Failure
+2019-02-02 17:39:22 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 17:39:22 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 17:39:26 Error: success
+2019-02-02 17:44:05 Error: success
+2019-02-02 17:48:19 Error: success
+2019-02-02 17:58:24 Error: success
+2019-02-02 17:59:09 Error: success
+2019-02-02 18:00:29 Error: success
+2019-02-02 18:01:30 Error: success
+2019-02-02 18:06:38 Error: success
+2019-02-02 21:29:27 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 21:29:27 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 21:29:47 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 21:29:47 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 21:30:04 Error: success
+2019-02-02 21:31:35 Error: success
+2019-02-02 21:42:42 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-02 21:42:42 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-02 23:18:56 Error: Failure Logout
+2019-02-02 23:18:56 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-02 23:19:01 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-02 23:19:05 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-02 23:30:53 Error: success
+2019-02-04 17:10:23 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: kei in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 17:10:23 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 17:22:34 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: kei in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 17:22:34 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 17:28:47 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;english_results&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 17:28:47 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 17:30:13 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: kei in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 17:30:13 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 17:33:53 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such table: englishResult in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 17:33:53 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 17:36:59 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such table: englishResult in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 17:36:59 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:11:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-04 20:11:39 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-04 20:12:13 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-04 20:26:14 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:26:14 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:26:32 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:26:32 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:27:45 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:27:45 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:29:05 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:29:05 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:34:29 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:34:29 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:35:56 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:35:57 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:36:14 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:36:14 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:37:44 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:37:44 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:38:51 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:38:51 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:40:08 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:40:08 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:41:55 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:41:55 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 20:44:49 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;getUser&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 20:44:49 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-04 21:10:36 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;english_results&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-04 21:10:36 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-05 00:20:22 Error: success
+2019-02-05 00:23:41 Error: success
+2019-02-05 00:24:58 Error: success
+2019-02-05 00:26:33 Error: success
+2019-02-05 00:28:12 Error: success
+2019-02-05 00:29:05 Error: success
+2019-02-05 00:30:41 Error: success
+2019-02-05 00:32:03 Error: success
+2019-02-05 00:32:53 Error: success
+2019-02-05 00:33:41 Error: success
+2019-02-05 00:34:24 Error: success
+2019-02-05 00:35:56 Error: success
+2019-02-05 00:37:36 Error: success
+2019-02-05 00:38:44 Error: success
+2019-02-07 00:00:17 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: english_result.sanswer in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-07 00:00:17 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-07 00:01:28 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: english_result.answer in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-07 00:01:28 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-07 00:02:16 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: english_resulst.answer in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-07 00:02:16 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-10 19:58:58 Error: success
+2019-02-10 20:01:44 Error: success
+2019-02-10 20:03:16 Error: success
+2019-02-10 20:04:32 Error: success
+2019-02-10 20:05:12 Error: success
+2019-02-10 20:06:11 Error: success
+2019-02-10 20:08:02 Error: success
+2019-02-10 20:09:20 Error: success
+2019-02-10 20:10:30 Error: success
+2019-02-10 20:12:08 Error: success
+2019-02-10 20:12:57 Error: success
+2019-02-10 20:13:55 Error: success
+2019-02-17 18:40:08 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:267) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-17 18:41:09 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:267) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-17 18:41:48 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:267) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-17 18:59:57 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\login_controller.php:122) in [APP\controllers\login_controller.php, line 123]
+2019-02-17 20:02:37 Error: Failure Logout
+2019-02-17 20:02:37 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-17 20:03:01 Error: Failure Logout
+2019-02-17 20:03:01 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-17 20:03:31 Error: Failure Logout
+2019-02-17 20:03:31 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-17 20:03:35 Error: Failure Logout
+2019-02-17 20:03:35 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-17 20:04:11 Error: userDel Failure
+2019-02-17 20:05:07 Error: userDel Failure
+2019-02-17 20:06:34 Error: userDel Failure
+2019-02-17 20:07:23 Error: userDel Failure
+2019-02-17 20:07:52 Error: userDel Failure
+2019-02-17 20:16:34 Error: userDel Failure
+2019-02-17 20:17:01 Error: userDel Failure
+2019-02-17 20:17:49 Error: userDel Failure
+2019-02-17 20:18:25 Error: userDel Failure
+2019-02-17 20:20:57 Error: userDel Failure
+2019-02-17 20:27:33 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\admin_controller.php:130) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-17 20:33:17 Error: Failure Logout
+2019-02-17 20:33:17 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-17 20:39:40 Error: Failure Logout
+2019-02-17 20:39:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-17 20:55:11 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: kei in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-17 20:55:11 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-02-17 20:55:11 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-02-17 20:55:11 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-17 20:59:02 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: kei in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-17 20:59:02 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-02-17 20:59:02 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-02-17 20:59:02 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-17 21:03:59 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: kei in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-17 21:03:59 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-02-17 21:03:59 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-02-17 21:03:59 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-17 21:04:26 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: kei in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-17 21:04:26 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-02-17 21:04:26 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-02-17 21:04:26 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-17 21:21:06 Error: success
+2019-02-17 22:27:07 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: ambiguous column name: current_date in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-17 22:27:07 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-17 22:57:45 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;DISTINCT&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-02-17 22:57:45 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-02-17 23:53:03 Error: success
+2019-02-18 00:19:05 Error: success
+2019-02-18 00:24:40 Error: success
+2019-02-18 00:31:13 Error: success
+2019-02-18 00:32:32 Error: success
+2019-02-18 00:33:48 Error: success
+2019-02-18 00:51:34 Error: success
+2019-02-18 00:54:11 Error: success
+2019-02-19 22:23:14 Error: success
+2019-02-19 22:38:41 Error: success
+2019-02-19 22:42:22 Error: success
+2019-02-19 22:42:47 Error: success
+2019-02-19 22:43:10 Error: success
+2019-02-19 22:43:32 Error: success
+2019-02-19 22:43:48 Error: success
+2019-02-19 22:45:10 Error: success
+2019-02-19 23:24:39 Error: success
+2019-02-19 23:25:46 Error: success
+2019-02-19 23:26:48 Error: success
+2019-02-19 23:28:29 Error: success
+2019-02-19 23:29:27 Error: success
+2019-02-19 23:30:07 Error: success
+2019-02-19 23:31:14 Error: success
+2019-02-19 23:31:14 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\admin_controller.php:91) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-19 23:33:47 Error: success
+2019-02-19 23:34:04 Error: success
+2019-02-19 23:34:25 Error: success
+2019-02-19 23:34:41 Error: success
+2019-02-19 23:34:55 Error: success
+2019-02-19 23:35:12 Error: success
+2019-02-19 23:36:20 Error: Failure
+2019-02-19 23:37:05 Error: success
+2019-02-19 23:37:05 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\admin_controller.php:96) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-19 23:37:12 Error: success
+2019-02-19 23:37:12 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\admin_controller.php:96) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-19 23:37:31 Error: success
+2019-02-19 23:37:31 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\admin_controller.php:96) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-19 23:37:49 Error: success
+2019-02-19 23:38:38 Error: success
+2019-02-19 23:38:56 Error: success
+2019-02-19 23:39:14 Error: success
+2019-02-19 23:39:36 Error: Failure
+2019-02-19 23:40:26 Error: Failure
+2019-02-19 23:40:31 Error: Failure
+2019-02-19 23:45:06 Error: "over 5 category"
+2019-02-19 23:45:06 Error: Failure
+2019-02-20 00:05:59 Error: success
+2019-02-20 00:08:02 Error: success
+2019-02-23 20:34:41 Error: success
+2019-02-23 20:37:00 Error: success
+2019-02-23 20:47:03 Error: success
+2019-02-23 21:02:15 Error: success
+2019-02-23 21:07:22 Error: success
+2019-02-23 21:08:36 Error: success
+2019-02-23 21:09:13 Error: success
+2019-02-23 21:10:26 Error: success
+2019-02-23 21:10:44 Error: success
+2019-02-23 21:19:52 Error: success
+2019-02-23 21:33:24 Error: success
+2019-02-24 16:24:57 Error: success
+2019-02-24 16:45:27 Warning: Warning (2): strpos() [<a href='http://php.net/function.strpos'>function.strpos</a>]: Empty delimiter in [APP\views\admin\index.ctp, line 81]
+2019-02-24 16:50:04 Error: success
+2019-02-24 16:52:08 Error: success
+2019-02-24 17:03:35 Error: success
+2019-02-24 17:04:30 Error: success
+2019-02-24 17:05:30 Error: "over 5 category"
+2019-02-24 17:05:31 Error: Failure
+2019-02-24 19:59:43 Error: Failure Logout
+2019-02-24 20:34:49 Warning: Warning (2): mb_send_mail() [<a href='http://php.net/function.mb-send-mail'>function.mb-send-mail</a>]: &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing in [APP\controllers\login_controller.php, line 129]
+2019-02-24 20:34:49 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-24 20:37:46 Warning: Warning (2): mail() [<a href='http://php.net/function.mail'>function.mail</a>]: &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing in [APP\controllers\login_controller.php, line 129]
+2019-02-24 20:37:46 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-24 20:39:28 Warning: Warning (2): mail() [<a href='http://php.net/function.mail'>function.mail</a>]: &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing in [APP\controllers\login_controller.php, line 129]
+2019-02-24 20:39:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-24 21:09:56 Error: success
+2019-02-24 23:54:13 Error: success
+2019-02-24 23:55:54 Error: success
+2019-02-24 23:56:09 Error: success
+2019-02-24 23:56:42 Error: "over 5 category"
+2019-02-24 23:56:42 Error: Failure
+2019-02-24 23:57:27 Error: "over 5 category"
+2019-02-24 23:57:27 Error: Failure
+2019-02-24 23:57:46 Error: "over 5 category"
+2019-02-24 23:57:46 Error: Failure
+2019-02-25 00:05:42 Error: success
+2019-02-25 00:05:42 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\app\controllers\admin_controller.php:97) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-02-25 00:06:12 Error: success
+2019-02-25 00:07:25 Error: success
+2019-02-25 00:07:47 Error: success
+2019-03-16 21:12:54 Error: success
+2019-03-16 21:20:06 Error: success
+2019-03-16 21:22:19 Error: success
+2019-03-16 21:24:44 Error: success
+2019-03-16 21:26:34 Error: success
+2019-03-16 21:28:33 Error: success
+2019-03-16 22:34:07 Error: success
+2019-03-16 22:34:40 Error: success
+2019-03-16 22:37:13 Error: success
+2019-03-16 22:37:53 Error: success
+2019-03-16 23:03:33 Error: success
+2019-03-17 10:34:08 Error: Failure Logout
+2019-04-02 22:23:03 Error: Failure Logout
+2019-04-05 21:24:11 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;sample.xml&quot; in [APP\controllers\login_controller.php, line 12]
+2019-04-05 21:26:26 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;sample.xml&quot; in [APP\controllers\login_controller.php, line 12]
+2019-04-05 21:27:29 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;sample.xml&quot; in [APP\controllers\login_controller.php, line 12]
+2019-04-05 21:33:23 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;sample.xml&quot; in [APP\controllers\login_controller.php, line 12]
+2019-04-05 21:37:25 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;https://pulogu.net/wordpress/wp-content/themes/twentysixteen-bootstrap-v3-child/xml/data.xml&quot; in [APP\controllers\login_controller.php, line 12]
+2019-04-05 21:38:05 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;https://pulogu.net/wordpress/wp-content/themes/twentysixteen-bootstrap-v3-child/xml/data.xml&quot; in [APP\controllers\login_controller.php, line 12]
+2019-04-05 22:16:22 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;&lt;?xml version='1.0' encoding='UTF-8'?&gt;&lt;root&gt;
+   &lt;item id='foo'&gt;&lt;root&gt;&quot; in [APP\controllers\login_controller.php, line 14]
+2019-04-28 17:40:41 Error: Failure Logout
+2019-04-28 17:40:42 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-04-28 17:40:57 Error: Failure Logout
+2019-04-28 17:40:57 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-04-28 19:59:26 Error: success
+2019-04-28 19:59:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-04-28 19:59:46 Error: success
+2019-04-28 19:59:46 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-04-28 19:59:52 Error: success
+2019-04-28 19:59:52 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\XAMPP\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-04-28 20:00:45 Error: success
+2019-04-28 20:00:54 Error: success
+2019-04-28 20:03:29 Error: success
+2019-04-28 23:32:31 Warning: Warning (2): unlink(C:\XAMPP\htdocs\cake\quiz\app\tmp\cache\persistent\cake_core_default_jpn) [<a href='http://php.net/function.unlink'>function.unlink</a>]: Permission denied in [CORE\cake\libs\file.php, line 292]
+2019-04-28 23:32:31 Warning: Warning (2): unlink(C:\XAMPP\htdocs\cake\quiz\app\tmp\cache\persistent\cake_core_default_jpn) [<a href='http://php.net/function.unlink'>function.unlink</a>]: Permission denied in [CORE\cake\libs\file.php, line 292]
+2019-04-28 23:52:33 Warning: Warning (2): strtotime() expects parameter 1 to be string, array given in [APP\controllers\record_controller.php, line 53]
+2019-04-28 23:53:11 Warning: Warning (2): strtotime() expects parameter 1 to be string, array given in [APP\controllers\record_controller.php, line 53]
+2019-04-28 23:57:01 Warning: Warning (2): strtotime() expects parameter 1 to be string, array given in [APP\controllers\record_controller.php, line 56]
+2019-04-28 23:57:38 Warning: Warning (2): strtotime() expects parameter 1 to be string, array given in [APP\controllers\record_controller.php, line 55]
+2019-04-28 23:58:12 Warning: Warning (2): strtotime() expects parameter 1 to be string, array given in [APP\controllers\record_controller.php, line 55]
+2019-04-29 00:07:59 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.max current_date in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-04-29 00:07:59 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-04-29 00:17:07 Warning: Warning (2): strtotime() expects parameter 1 to be string, array given in [APP\controllers\record_controller.php, line 57]
+2019-04-29 00:17:41 Warning: Warning (2): strtotime() expects parameter 1 to be string, array given in [APP\controllers\record_controller.php, line 57]
+2019-04-29 00:49:31 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 60]
+2019-04-29 00:53:30 Warning: Warning (2): Cannot use a scalar value as an array in [APP\controllers\record_controller.php, line 67]
+2019-04-29 00:53:30 Warning: Warning (2): asort() expects parameter 1 to be array, boolean given in [APP\controllers\record_controller.php, line 68]
+2019-04-29 00:55:15 Warning: Warning (2): Cannot use a scalar value as an array in [APP\controllers\record_controller.php, line 67]
+2019-04-29 00:55:15 Warning: Warning (2): ksort() expects parameter 1 to be array, boolean given in [APP\controllers\record_controller.php, line 68]
+2019-04-29 00:56:38 Warning: Warning (2): Cannot use a scalar value as an array in [APP\controllers\record_controller.php, line 67]
+2019-04-29 00:56:38 Warning: Warning (2): ksort() expects parameter 1 to be array, boolean given in [APP\controllers\record_controller.php, line 68]
+2019-04-29 00:56:55 Warning: Warning (2): Cannot use a scalar value as an array in [APP\controllers\record_controller.php, line 67]
+2019-04-29 00:56:55 Warning: Warning (2): ksort() expects parameter 1 to be array, boolean given in [APP\controllers\record_controller.php, line 68]
+2019-04-29 14:17:51 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:19:13 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:19:25 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:19:46 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:20:27 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:20:43 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:21:03 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:21:33 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:21:50 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:22:18 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:22:33 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:25:19 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:29:52 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:30:35 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:32:39 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:32:54 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:33:44 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:33:50 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:34:43 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:35:04 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:35:36 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:36:14 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:36:38 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:37:28 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 82]
+2019-04-29 14:40:06 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 84]
+2019-04-29 14:41:31 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 84]
+2019-04-29 14:42:03 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 84]
+2019-04-29 14:42:49 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:43:08 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:44:00 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 83]
+2019-04-29 14:44:14 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 84]
+2019-04-29 19:59:10 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 84]
+2019-04-29 20:27:21 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 84]
+2019-04-29 20:27:32 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 84]
+2019-04-29 20:27:58 Warning: Warning (2): array_unique() [<a href='http://php.net/function.array-unique'>function.array-unique</a>]: The argument should be an array in [APP\controllers\record_controller.php, line 84]
+2019-05-08 22:48:33 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-08 23:00:19 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\app\controllers\login_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-08 23:05:19 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-08 23:05:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-08 23:06:54 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-08 23:08:54 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\app\controllers\login_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-08 23:11:08 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\app\controllers\login_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-08 23:16:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\app\controllers\login_controller.php:1) in [APP\controllers\login_controller.php, line 144]
+2019-05-08 23:16:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\app\controllers\login_controller.php:1) in [APP\controllers\login_controller.php, line 144]
+2019-05-08 23:21:04 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\app\controllers\login_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-08 23:31:52 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\app\controllers\login_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-09 00:01:36 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;sample.xml&quot; in [APP\controllers\login_controller.php, line 13]
+2019-05-09 00:05:29 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;sample.xml&quot; in [APP\controllers\login_controller.php, line 13]
+2019-05-09 00:08:19 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;sample.xml&quot; in [APP\controllers\login_controller.php, line 13]
+2019-05-09 00:08:42 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;sample.xml&quot; in [APP\controllers\login_controller.php, line 13]
+2019-05-09 00:08:50 Warning: Warning (2): simplexml_load_file() [<a href='http://php.net/function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;sample.xml&quot; in [APP\controllers\login_controller.php, line 13]
+2019-05-09 00:32:48 Error: success
+2019-05-09 00:33:19 Error: success
+2019-05-09 00:35:26 Error: success
+2019-05-09 00:35:51 Error: success
+2019-05-10 21:24:24 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\app\controllers\result_controller.php:1) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-10 21:25:11 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 21:25:11 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-10 21:25:11 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-10 21:25:11 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 21:28:59 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 21:28:59 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-10 21:28:59 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-10 21:28:59 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 21:40:50 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 21:40:50 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-10 21:40:50 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-10 21:40:50 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 21:43:05 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 21:43:05 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-10 21:43:05 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-10 21:43:05 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 21:44:33 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 21:44:33 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-10 21:44:33 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-10 21:44:33 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 21:48:20 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 21:48:20 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 21:49:24 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 21:49:24 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 21:51:36 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 21:51:36 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-10 21:51:36 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-10 21:51:37 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 21:54:35 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 21:54:35 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-10 21:54:35 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-10 21:54:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 22:01:42 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 22:01:42 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-10 22:01:42 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-10 22:01:42 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 22:02:59 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 22:02:59 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-10 22:02:59 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-10 22:02:59 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 22:05:00 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 22:05:00 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-10 22:05:00 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-10 22:05:00 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 22:06:11 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;update&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 22:06:11 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 22:35:11 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 22:35:11 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-10 22:35:11 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-10 22:35:11 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 22:36:02 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.id in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 22:36:02 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-10 22:38:47 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: englishResult.id in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-10 22:38:47 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 11:43:06 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: unrecognized token: &quot;:&quot; in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 11:43:06 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 11:45:51 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;&gt;&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 11:45:51 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 11:49:06 Warning: Warning (2): unlink(C:\xampp\htdocs\cake\quiz\app\tmp\cache\models\cake_model_default_english_results) [<a href='http://php.net/function.unlink'>function.unlink</a>]: Permission denied in [CORE\cake\libs\file.php, line 292]
+2019-05-11 11:49:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-11 11:52:14 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 11:52:14 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 11:57:25 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 11:57:25 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:02:08 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:02:08 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-11 12:02:08 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-11 12:02:08 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:04:55 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:04:55 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-11 12:04:55 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-11 12:04:55 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:05:25 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:05:25 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-11 12:05:25 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-11 12:05:25 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:08:29 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: PRIMARY KEY must be unique in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:08:29 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-11 12:08:29 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-11 12:08:29 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 19: constraint failed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:17:29 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:17:29 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:18:52 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: retry_results.level in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:18:52 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:34:44 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:34:44 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:44:31 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:44:31 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:46:16 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;from&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:46:16 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:54:35 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: unrecognized token: &quot;:&quot; in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:54:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:55:22 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;12&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:55:23 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:57:35 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: retry_date in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:57:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 12:59:39 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: database schema has changed in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 12:59:39 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 17: database schema has changed</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 13:02:20 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: retry_date in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 13:02:20 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 13:16:06 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;set&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 13:16:06 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 13:16:35 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;result&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 13:16:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 13:20:56 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;where&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 13:20:56 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 13:25:40 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;where&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 13:25:40 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 13:27:37 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: kei in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 13:27:37 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 13:30:59 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: kei in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 13:30:59 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-11 18:26:24 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: kei in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-11 18:26:25 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-12 10:28:41 Warning: Warning (2): unlink(C:\xampp\htdocs\cake\quiz\app\tmp\cache\models\cake_model_default_user_infos) [<a href='http://php.net/function.unlink'>function.unlink</a>]: Permission denied in [CORE\cake\libs\file.php, line 292]
+2019-05-12 10:28:41 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-12 11:15:42 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: ambiguous column name: level in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-12 11:15:42 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-12 11:17:57 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: ambiguous column name: level in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-12 11:17:57 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-12 11:23:53 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;from&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-12 11:23:53 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-12 11:52:36 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: ambiguous column name: level in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-12 11:52:36 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-12 13:34:36 Error: success
+2019-05-12 19:42:46 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: english_tests.leve in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-12 19:42:47 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-12 19:43:37 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: english_tests.leve in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-12 19:43:37 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-12 20:21:35 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: english_tests.leve in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-12 20:21:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-14 21:28:12 Error: success
+2019-05-14 21:53:31 Error: success
+2019-05-14 21:55:59 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: no such column: Array in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-14 21:56:00 Warning: Warning (2): sqlite_num_fields() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 369]
+2019-05-14 21:56:00 Warning: Warning (2): sqlite_fetch_array() expects parameter 1 to be resource, boolean given in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 390]
+2019-05-14 21:56:00 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-14 21:56:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-14 21:58:43 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\app\controllers\englishs_retry_post_controller.php:77) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-15 20:21:15 Error: success
+2019-05-15 20:31:14 Error: success
+2019-05-15 22:30:33 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-15 22:31:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-18 18:04:45 Warning: Warning (2): sqlite_query() [<a href='http://php.net/function.sqlite-query'>function.sqlite-query</a>]: near &quot;RDER&quot;: syntax error in [CORE\cake\libs\model\datasources\dbo\dbo_sqlite.php, line 133]
+2019-05-18 18:04:45 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1: SQL logic error or missing database</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 514]
+2019-05-18 18:11:19 Error: success
+2019-05-18 18:13:12 Error: success
+2019-05-19 02:24:37 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 128]
+2019-05-19 02:25:09 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 128]
+2019-05-19 02:29:53 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 128]
+2019-05-19 02:32:14 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-19 02:32:21 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-19 02:35:55 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 128]
+2019-05-19 02:37:23 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 128]
+2019-05-19 02:42:24 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 128]
+2019-05-19 02:43:09 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 128]
+2019-05-19 02:51:07 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 136]
+2019-05-19 02:52:15 Warning: Warning (2): Division by zero in [APP\controllers\record_controller.php, line 139]
+2019-05-19 03:54:45 Error: success
+2019-05-19 03:55:23 Error: success
+2019-05-19 03:55:55 Error: success
+2019-05-19 03:57:28 Error: success
+2019-05-19 03:58:15 Error: success
+2019-05-19 03:59:01 Error: success
+2019-05-19 04:00:23 Error: success
+2019-05-19 04:01:17 Error: success
+2019-05-19 04:18:22 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-19 04:19:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-19 10:12:29 Error: success
+2019-05-19 10:13:31 Error: success
+2019-05-19 10:28:46 Error: success
+2019-05-19 10:29:59 Error: userDel Failure
+2019-05-19 10:29:59 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\app\controllers\admin_controller.php:309) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-19 10:37:05 Error: Failure Logout
+2019-05-19 10:37:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-19 10:39:08 Error: success
+2019-05-19 10:44:27 Error: userDel Failure
+2019-05-19 10:44:27 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\app\controllers\admin_controller.php:311) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-19 16:45:18 Error: success
+2019-05-19 16:45:48 Error: success
+2019-05-25 18:07:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-25 18:09:08 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-25 18:09:37 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-25 18:10:19 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-25 18:13:42 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-26 15:50:36 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-26 17:29:23 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-26 17:41:33 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
