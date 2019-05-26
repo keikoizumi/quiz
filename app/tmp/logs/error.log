@@ -1045,3 +1045,5 @@
 2019-05-26 15:50:36 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
 2019-05-26 17:29:23 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
 2019-05-26 17:41:33 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-26 22:17:47 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cake\quiz\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 615]
+2019-05-26 22:28:23 Error: Failure Logout
